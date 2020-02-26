@@ -1,0 +1,78 @@
+body{
+    background: black;
+
+}
+
+.container{
+
+    width:400px;
+    height:560px;
+    background-color:white;
+    margin: 50px auto;
+
+}
+.card{
+    height:50px;
+    background-color:white;
+    display:inline-block;
+    width:100%;
+}
+
+
+
+.card .card-header{
+    height:8px;
+
+}
+.card .card-header img{
+
+    width:40px;
+    margin-top:8px;
+}
+
+.card .iconos-header img{
+    width:30px;
+    float:right;
+    padding-right:5px;
+    margin-bottom: 15px;    
+    
+}
+
+.card-body img{
+
+    width:100%;
+}
+
+.iconos-body{
+    margin-top:5px;
+    padding:15px;
+}
+
+.iconos-instagram img {
+    width:30px;
+    padding-right:10px;
+    float:left;
+
+}
+
+.icono-guardar img{
+
+    width:30px;
+    float :right;  
+
+}
+
+.card-footer{
+
+    
+}
+.card-footer h2{
+   
+     margin-left:12px;
+}
+
+.card-footer p{
+
+    margin-left:18px;
+    margin-bottom:90px;
+}
